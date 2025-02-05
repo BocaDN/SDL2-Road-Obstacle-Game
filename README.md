@@ -1,5 +1,5 @@
 ## Gameplay footage
-![RoadObstacleGameSDL2](RoadObstacleGameSDL2.GIF)
+![RoadObstacleGameSDL2](RoadObstacleGameSDL2.gif)
  
 ## Controls
 - arrow keys
